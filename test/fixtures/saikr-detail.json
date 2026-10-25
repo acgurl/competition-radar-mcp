@@ -1,0 +1,21 @@
+{
+  "contest_id": 58100,
+  "contest_name": "2026大学生“麟创杯”创新数学竞赛",
+  "organiser": ["中国技术市场协会数智技术专业委员会", "中创科技推广（北京）有限公司"],
+  "regist_start_time": "2026/04/29 00:00:00",
+  "regist_end_time": "2026/10/25 20:00:00",
+  "contest_start_time": "2026/10/24 10:00:00",
+  "contest_end_time": "2026/10/25 23:00:00",
+  "participation_detail": {
+    "explain": "全国高校在校学生均可报名，专业不限",
+    "detail": ""
+  },
+  "contest_class_first": 1001,
+  "contest_class_second": "ai",
+  "contest_class_second_id": 1006,
+  "contest_level": 4,
+  "content": "<p>主办单位：中国技术市场协会数智技术专业委员会</p><p>报名时间：2026年4月29日至2026年10月25日</p><p>比赛时间：2026年10月24日</p><p>报名费：30元/人</p><p>本次比赛采用线上答题方式。</p><p><a href=\"https://example.com/contest\">大赛官网</a></p>",
+  "is_redirect_external": 0,
+  "external_link": "",
+  "contest_url": "vse/LCBCXSX"
+}

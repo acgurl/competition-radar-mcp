@@ -1,0 +1,988 @@
+{
+  "version": "2025",
+  "source": "https://www.sdaeu.edu.cn/jwc/info/1061/2588.htm",
+  "months_source": "https://gra.njtech.edu.cn/cxsj/info/1004/1027.htm",
+  "updated_at": "2026-10-25",
+  "items": [
+    {
+      "id": "official-001",
+      "no": 1,
+      "name": "中国国际大学生创新大赛",
+      "aliases": [
+        "互联网+",
+        "互联网+大学生创新创业大赛",
+        "国创赛"
+      ],
+      "url": "https://cy.ncss.cn/",
+      "category": "business",
+      "typical_months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "note": null
+    },
+    {
+      "id": "official-002",
+      "no": 2,
+      "name": "“挑战杯”全国大学生课外学术科技作品竞赛",
+      "aliases": [
+        "大挑",
+        "挑战杯"
+      ],
+      "url": "http://www.tiaozhanbei.net/",
+      "category": "comprehensive",
+      "typical_months": [
+        1
+      ],
+      "note": null
+    },
+    {
+      "id": "official-003",
+      "no": 3,
+      "name": "“挑战杯”中国大学生创业计划大赛",
+      "aliases": [
+        "小挑",
+        "创青春"
+      ],
+      "url": "http://www.tiaozhanbei.net/",
+      "category": "business",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-004",
+      "no": 4,
+      "name": "ACM-ICPC国际大学生程序设计竞赛",
+      "aliases": [
+        "ICPC",
+        "ACM"
+      ],
+      "url": "https://icpc.global/",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-005",
+      "no": 5,
+      "name": "全国大学生数学建模竞赛",
+      "aliases": [
+        "数模",
+        "国赛",
+        "CUMCM"
+      ],
+      "url": "http://www.mcm.edu.cn/",
+      "category": "math",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-006",
+      "no": 6,
+      "name": "全国大学生电子设计竞赛",
+      "aliases": [
+        "电赛",
+        "NUEDC"
+      ],
+      "url": "http://www.nuedcchina.com/",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-007",
+      "no": 7,
+      "name": "中国大学生医学技术技能大赛",
+      "aliases": [],
+      "url": "https://medu.bjmu.edu.cn/cms/show.action?code=publish_4af037e16e264f60016eaa7dea950ef4&siteid=100001",
+      "category": "science",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-008",
+      "no": 8,
+      "name": "全国大学生机械创新设计大赛",
+      "aliases": [],
+      "url": "http://umic.ckcest.cn/",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-009",
+      "no": 9,
+      "name": "全国大学生结构设计竞赛",
+      "aliases": [],
+      "url": "http://www.structurecontest.com/",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-010",
+      "no": 10,
+      "name": "全国大学生广告艺术大赛",
+      "aliases": [
+        "大广赛"
+      ],
+      "url": "https://www.sun-ada.net/",
+      "category": "design",
+      "typical_months": [
+        1
+      ],
+      "note": null
+    },
+    {
+      "id": "official-011",
+      "no": 11,
+      "name": "全国大学生智能汽车竞赛",
+      "aliases": [
+        "智能车"
+      ],
+      "url": "http://www.eepw.com.cn/event/action/freescale_car2012/",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-012",
+      "no": 12,
+      "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+      "aliases": [
+        "三创赛",
+        "电商三创"
+      ],
+      "url": "http://www.3chuang.net/",
+      "category": "engineering",
+      "typical_months": [
+        9
+      ],
+      "note": null
+    },
+    {
+      "id": "official-013",
+      "no": 13,
+      "name": "中国大学生工程实践与创新能力大赛",
+      "aliases": [],
+      "url": "http://www.gcxl.edu.cn/new/index.html",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-014",
+      "no": 14,
+      "name": "全国大学生物流设计大赛",
+      "aliases": [],
+      "url": "http://www.clpp.org.cn/",
+      "category": "science",
+      "typical_months": [
+        3
+      ],
+      "note": null
+    },
+    {
+      "id": "official-015",
+      "no": 15,
+      "name": "“外研社·国才杯”“理解当代中国”全国大学生外语能力大赛",
+      "aliases": [
+        "外研社杯",
+        "国才杯"
+      ],
+      "url": "http://uchallenge.unipus.cn/",
+      "category": "language",
+      "typical_months": [
+        4
+      ],
+      "note": null
+    },
+    {
+      "id": "official-016",
+      "no": 16,
+      "name": "两岸新锐设计竞赛·华灿奖",
+      "aliases": [],
+      "url": "http://www.huacanjiang.com/home",
+      "category": "design",
+      "typical_months": [
+        9
+      ],
+      "note": null
+    },
+    {
+      "id": "official-017",
+      "no": 17,
+      "name": "全国大学生创新创业训练计划年会展示",
+      "aliases": [],
+      "url": "http://gjcxcy.bjtu.edu.cn/Index.aspx",
+      "category": "business",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-018",
+      "no": 18,
+      "name": "全国大学生化工设计竞赛",
+      "aliases": [],
+      "url": "http://iche.zju.edu.cn/",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-019",
+      "no": 19,
+      "name": "全国大学生机器人大赛",
+      "aliases": [
+        "ROBOCON",
+        "RoboCon"
+      ],
+      "url": "https://www.cnrobocon.net/",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-020",
+      "no": 20,
+      "name": "全国大学生市场调查与分析大赛",
+      "aliases": [
+        "市调大赛"
+      ],
+      "url": "http://www.china-cssc.org/list-56-1.html",
+      "category": "business",
+      "typical_months": [
+        9
+      ],
+      "note": null
+    },
+    {
+      "id": "official-021",
+      "no": 21,
+      "name": "全国大学生先进成图技术与产品信息建模创新大赛",
+      "aliases": [],
+      "url": "http://www.chengtudasai.com/",
+      "category": "business",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-022",
+      "no": 22,
+      "name": "全国三维数字化创新设计大赛",
+      "aliases": [],
+      "url": "https://3dds.3ddl.net/",
+      "category": "design",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-023",
+      "no": 23,
+      "name": "“西门子杯”中国智能制造挑战赛",
+      "aliases": [],
+      "url": "http://www.siemenscup-cimc.org.cn/",
+      "category": "comprehensive",
+      "typical_months": [
+        3
+      ],
+      "note": null
+    },
+    {
+      "id": "official-024",
+      "no": 24,
+      "name": "中国大学生服务外包创新创业大赛",
+      "aliases": [],
+      "url": "http://www.fwwb.org.cn/",
+      "category": "business",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-025",
+      "no": 25,
+      "name": "中国大学生计算机设计大赛",
+      "aliases": [
+        "4C",
+        "计算机设计大赛"
+      ],
+      "url": "http://jsjds.blcu.edu.cn/",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-026",
+      "no": 26,
+      "name": "中国高校计算机大赛",
+      "aliases": [],
+      "url": "http://www.c4best.cn/",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-027",
+      "no": 27,
+      "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+      "aliases": [
+        "蓝桥杯"
+      ],
+      "url": "http://dasai.lanqiao.cn/",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-028",
+      "no": 28,
+      "name": "米兰设计周·中国高校设计学科师生优秀作品展",
+      "aliases": [],
+      "url": "http://www.dandad.cn/",
+      "category": "design",
+      "typical_months": [
+        10
+      ],
+      "note": null
+    },
+    {
+      "id": "official-029",
+      "no": 29,
+      "name": "全国大学生地质技能竞赛",
+      "aliases": [],
+      "url": "https://yuanxi.cugb.edu.cn/competition/",
+      "category": "science",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-030",
+      "no": 30,
+      "name": "全国大学生光电设计竞赛",
+      "aliases": [],
+      "url": "http://gd.p.moocollege.com/",
+      "category": "science",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-031",
+      "no": 31,
+      "name": "全国大学生集成电路创新创业大赛",
+      "aliases": [],
+      "url": "http://univ.ciciec.com/",
+      "category": "computer",
+      "typical_months": [
+        1
+      ],
+      "note": null
+    },
+    {
+      "id": "official-032",
+      "no": 32,
+      "name": "全国大学生金相技能大赛",
+      "aliases": [],
+      "url": "http://www.jxds.tech/",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-033",
+      "no": 33,
+      "name": "全国大学生信息安全竞赛",
+      "aliases": [
+        "CISCN",
+        "信安赛"
+      ],
+      "url": "http://www.ciscn.cn/",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-034",
+      "no": 34,
+      "name": "未来设计师·全国高校数字艺术设计大赛",
+      "aliases": [],
+      "url": "https://www.ncda.org.cn/",
+      "category": "design",
+      "typical_months": [
+        12
+      ],
+      "note": null
+    },
+    {
+      "id": "official-035",
+      "no": 35,
+      "name": "全国周培源大学生力学竞赛",
+      "aliases": [],
+      "url": "http://zpy.cstam.org.cn/index.aspx",
+      "category": "science",
+      "typical_months": [
+        1
+      ],
+      "note": null
+    },
+    {
+      "id": "official-036",
+      "no": 36,
+      "name": "中国大学生机械工程创新创意大赛",
+      "aliases": [],
+      "url": "http://www.gczbds.org",
+      "category": "engineering",
+      "typical_months": [
+        2
+      ],
+      "note": null
+    },
+    {
+      "id": "official-037",
+      "no": 37,
+      "name": "中国机器人大赛暨RoboCup机器人世界杯中国赛",
+      "aliases": [
+        "RoboCup"
+      ],
+      "url": "http://crc.drct-caa.org.cn/",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-038",
+      "no": 38,
+      "name": "“中国软件杯”大学生软件设计大赛",
+      "aliases": [],
+      "url": "http://www.cnsoftbei.com/",
+      "category": "computer",
+      "typical_months": [
+        4
+      ],
+      "note": null
+    },
+    {
+      "id": "official-039",
+      "no": 39,
+      "name": "中美青年创客大赛",
+      "aliases": [],
+      "url": "https://chinaus-maker.cscse.edu.cn/",
+      "category": "comprehensive",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-040",
+      "no": 40,
+      "name": "睿抗机器人开发者大赛(RAICOM)",
+      "aliases": [
+        "RAICOM",
+        "睿抗"
+      ],
+      "url": "https://www.robocom.com.cn/",
+      "category": "engineering",
+      "typical_months": [
+        2
+      ],
+      "note": null
+    },
+    {
+      "id": "official-041",
+      "no": 41,
+      "name": "“大唐杯”全国大学生新一代信息通信技术大赛",
+      "aliases": [
+        "大唐杯"
+      ],
+      "url": "https://dtcup.dtxiaotangren.com",
+      "category": "computer",
+      "typical_months": [
+        12
+      ],
+      "note": null
+    },
+    {
+      "id": "official-042",
+      "no": 42,
+      "name": "华为ICT大赛",
+      "aliases": [
+        "华为ICT"
+      ],
+      "url": "https://e.huawei.com/cn/talent/ict-academy/#/ict-contest?compId=85131973",
+      "category": "comprehensive",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-043",
+      "no": 43,
+      "name": "全国大学生嵌入式芯片与系统设计竞赛",
+      "aliases": [],
+      "url": "http://www.socchina.net/",
+      "category": "computer",
+      "typical_months": [
+        3
+      ],
+      "note": null
+    },
+    {
+      "id": "official-044",
+      "no": 44,
+      "name": "全国大学生生命科学竞赛(CULSC)",
+      "aliases": [
+        "CULSC"
+      ],
+      "url": "https://www.culsc.cn/#/",
+      "category": "science",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-045",
+      "no": 45,
+      "name": "全国大学生物理实验竞赛",
+      "aliases": [],
+      "url": "http://wlsycx.moocollege.com/",
+      "category": "science",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-046",
+      "no": 46,
+      "name": "国际高校BIM毕业设计创新大赛",
+      "aliases": [],
+      "url": "http://gxbsxs.glodonedu.com/",
+      "category": "design",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-047",
+      "no": 47,
+      "name": "全国高校商业精英挑战赛",
+      "aliases": [],
+      "url": "http://cubec.org.cn/",
+      "category": "business",
+      "typical_months": [
+        9
+      ],
+      "note": null
+    },
+    {
+      "id": "official-048",
+      "no": 48,
+      "name": "“学创杯”全国大学生创业综合模拟大赛",
+      "aliases": [],
+      "url": "http://www.bster.cn/cyds/index",
+      "category": "business",
+      "typical_months": [
+        1
+      ],
+      "note": null
+    },
+    {
+      "id": "official-049",
+      "no": 49,
+      "name": "中国高校智能机器人创意大赛",
+      "aliases": [],
+      "url": "http://www.robotcontest.cn/",
+      "category": "engineering",
+      "typical_months": [
+        3
+      ],
+      "note": null
+    },
+    {
+      "id": "official-050",
+      "no": 50,
+      "name": "中国好创意暨全国数字艺术设计大赛",
+      "aliases": [
+        "中国好创意"
+      ],
+      "url": "https://www.cdec.org.cn/",
+      "category": "design",
+      "typical_months": [
+        10
+      ],
+      "note": null
+    },
+    {
+      "id": "official-051",
+      "no": 51,
+      "name": "中国机器人及人工智能大赛",
+      "aliases": [],
+      "url": "https://developer.apollo.auto/devcenter/gameOperations_cn.html?target=3",
+      "category": "ai",
+      "typical_months": [
+        3
+      ],
+      "note": null
+    },
+    {
+      "id": "official-052",
+      "no": 52,
+      "name": "全国大学生节能减排社会实践与科技竞赛",
+      "aliases": [
+        "节能减排"
+      ],
+      "url": "http://www.jienengjianpai.org/",
+      "category": "comprehensive",
+      "typical_months": [
+        1
+      ],
+      "note": null
+    },
+    {
+      "id": "official-053",
+      "no": 53,
+      "name": "“21世纪杯”全国英语演讲比赛",
+      "aliases": [
+        "21世纪杯"
+      ],
+      "url": "https://contest.i21st.cn/",
+      "category": "language",
+      "typical_months": [
+        1
+      ],
+      "note": null
+    },
+    {
+      "id": "official-054",
+      "no": 54,
+      "name": "iCAN大学生创新创业大赛",
+      "aliases": [],
+      "url": "http://www.g-ican.com/home/index",
+      "category": "business",
+      "typical_months": [
+        4
+      ],
+      "note": null
+    },
+    {
+      "id": "official-055",
+      "no": 55,
+      "name": "“工行杯”全国大学生金融科技创新大赛",
+      "aliases": [],
+      "url": "https://www.gonghangbei.com",
+      "category": "business",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-056",
+      "no": 56,
+      "name": "中华经典诵写讲大赛-①讲解大赛、②书写大赛、③诵读大赛、④篆刻大赛",
+      "aliases": [],
+      "url": "https://jdsxj.eduyun.cn/",
+      "category": "language",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-057",
+      "no": 57,
+      "name": "“外教社杯”全国高校学生跨文化能力大赛",
+      "aliases": [],
+      "url": "https://ict.sflep.com/index.php?m=content&c=index&a=lists&catid=15",
+      "category": "language",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-058",
+      "no": 58,
+      "name": "百度之星程序设计大赛",
+      "aliases": [
+        "百度之星"
+      ],
+      "url": "https://star.baidu.com/#/",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-059",
+      "no": 59,
+      "name": "全国大学生工业设计大赛",
+      "aliases": [],
+      "url": "https://www.cuidc.net/#/",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-060",
+      "no": 60,
+      "name": "全国大学生水利创新设计大赛",
+      "aliases": [],
+      "url": "https://sljzw.hhu.edu.cn/fenhui/2023/0411/c12009a259306/page.htm",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-061",
+      "no": 61,
+      "name": "全国大学生化工实验大赛",
+      "aliases": [],
+      "url": "http://www.cteic.com/higherEducation-199.html?www.kulayu.com",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-062",
+      "no": 62,
+      "name": "全国大学生化学实验创新设计大赛",
+      "aliases": [],
+      "url": "https://cid.nju.edu.cn/",
+      "category": "science",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-063",
+      "no": 63,
+      "name": "全国大学生计算机系统能力大赛",
+      "aliases": [
+        "计算机系统能力大赛"
+      ],
+      "url": "https://compiler.educg.net/#/",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-064",
+      "no": 64,
+      "name": "全国大学生花园设计建造竞赛",
+      "aliases": [],
+      "url": "http://www.lalavision.com/hysjjzjs",
+      "category": "design",
+      "typical_months": [
+        12
+      ],
+      "note": null
+    },
+    {
+      "id": "official-065",
+      "no": 65,
+      "name": "全国大学生物联网设计竞赛",
+      "aliases": [
+        "物联网设计竞赛"
+      ],
+      "url": "https://developer.huaweicloud.com/college/wulianwang.html",
+      "category": "science",
+      "typical_months": [
+        4
+      ],
+      "note": null
+    },
+    {
+      "id": "official-066",
+      "no": 66,
+      "name": "全国大学生信息安全与对抗技术竞赛",
+      "aliases": [],
+      "url": "https://www.isclab.org.cn",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-067",
+      "no": 67,
+      "name": "全国大学生测绘学科创新创业智能大赛",
+      "aliases": [],
+      "url": "http://smt.whu.edu.cn/index.htm",
+      "category": "science",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-068",
+      "no": 68,
+      "name": "全国大学生统计建模大赛",
+      "aliases": [
+        "统计建模"
+      ],
+      "url": "http://tjjmds.ai-learning.net",
+      "category": "math",
+      "typical_months": [
+        2
+      ],
+      "note": null
+    },
+    {
+      "id": "official-069",
+      "no": 69,
+      "name": "全国大学生能源经济学术创意大赛",
+      "aliases": [],
+      "url": "http://energy.qibebt.ac.cn/eneco/contribution/index.html",
+      "category": "engineering",
+      "typical_months": [
+        10
+      ],
+      "note": null
+    },
+    {
+      "id": "official-070",
+      "no": 70,
+      "name": "全国大学生基础医学创新研究暨实验设计论坛(大赛)",
+      "aliases": [],
+      "url": "http://www.jcyxds.com/",
+      "category": "science",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-071",
+      "no": 71,
+      "name": "全国大学生数字媒体科技作品及创意竞赛",
+      "aliases": [
+        "数字媒体科技作品"
+      ],
+      "url": "http://mit.caai.cn/",
+      "category": "design",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-072",
+      "no": 72,
+      "name": "全国本科院校税收风险管控案例大赛",
+      "aliases": [],
+      "url": null,
+      "category": "business",
+      "typical_months": [],
+      "note": "暂无公开官网，信息主要通过微信公众号发布"
+    },
+    {
+      "id": "official-073",
+      "no": 73,
+      "name": "全国企业模拟竞赛大赛",
+      "aliases": [],
+      "url": "http://www.ibizsim.cn/",
+      "category": "comprehensive",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-074",
+      "no": 74,
+      "name": "全国高等院校数智化企业经营沙盘大赛",
+      "aliases": [],
+      "url": null,
+      "category": "business",
+      "typical_months": [],
+      "note": "暂无公开官网"
+    },
+    {
+      "id": "official-075",
+      "no": 75,
+      "name": "全国数字建筑创新应用大赛",
+      "aliases": [],
+      "url": "http://bisai.ccen.com.cn",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-076",
+      "no": 76,
+      "name": "全球校园人工智能算法精英大赛",
+      "aliases": [],
+      "url": "https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/101655281685926449?ha_source=HR&ha_sourceId=89000452",
+      "category": "ai",
+      "typical_months": [
+        5
+      ],
+      "note": null
+    },
+    {
+      "id": "official-077",
+      "no": 77,
+      "name": "国际大学生智能农业装备创新大赛",
+      "aliases": [],
+      "url": "http://uiaec.ujs.edu.cn",
+      "category": "business",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-078",
+      "no": 78,
+      "name": "“科云杯”全国大学生财会职业能力大赛",
+      "aliases": [],
+      "url": "http://match.xmkeyun.com.cn/",
+      "category": "comprehensive",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-079",
+      "no": 79,
+      "name": "世界职业院校技能大赛",
+      "aliases": [],
+      "url": "https://www.vcsc.org.cn/",
+      "category": "comprehensive",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-080",
+      "no": 80,
+      "name": "全国大学生机器人大赛-RoboTac",
+      "aliases": [
+        "ROBOCON",
+        "RoboCon",
+        "RoboTac"
+      ],
+      "url": "http://www.robotac.cn",
+      "category": "engineering",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-081",
+      "no": 81,
+      "name": "世界技能大赛",
+      "aliases": [],
+      "url": "https://worldskills.org/",
+      "category": "comprehensive",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-082",
+      "no": 82,
+      "name": "世界技能大赛中国选拔赛",
+      "aliases": [],
+      "url": "http://worldskillschina.mohrss.gov.cn/",
+      "category": "comprehensive",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-083",
+      "no": 83,
+      "name": "一带一路暨金砖国家技能发展与技术创新大赛",
+      "aliases": [],
+      "url": "http://www.brskills.com/#/index",
+      "category": "business",
+      "typical_months": [],
+      "note": null
+    },
+    {
+      "id": "official-084",
+      "no": 84,
+      "name": "码蹄杯全国职业院校程序设计大赛",
+      "aliases": [],
+      "url": "https://matiji.net/matibei",
+      "category": "computer",
+      "typical_months": [],
+      "note": null
+    }
+  ]
+}

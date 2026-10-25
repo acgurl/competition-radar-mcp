@@ -1,0 +1,21 @@
+{
+  "contest_id": 58100,
+  "contest_name": "【现在报名，立即考试】2026大学生“麟创杯”创新数学竞赛",
+  "contest_url": "vse/LCBCXSX",
+  "is_exam": 0,
+  "is_contest_status": 1,
+  "regist_start_time": 1777392000,
+  "regist_end_time": 1792929600,
+  "contest_start_time": 1792807200,
+  "contest_end_time": 1792940400,
+  "level_name": "全国性",
+  "organiser": "中国技术市场协会数智技术专业委员会 等",
+  "enter_range": "全国",
+  "contest_class_first": 1001,
+  "contest_class_second": "computer",
+  "contest_class_second_id": 6,
+  "time_status": 22,
+  "time_name": "比赛进行中",
+  "labels": ["数学竞赛", "单机位答题"],
+  "thumb_pic": "https://publicqn.saikr.com/example.png"
+}

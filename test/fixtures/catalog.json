@@ -1,0 +1,27 @@
+{
+  "version": "test",
+  "source": "test",
+  "updated_at": "2026-10-25",
+  "items": [
+    {
+      "id": "official-005",
+      "no": 5,
+      "name": "全国大学生数学建模竞赛",
+      "aliases": ["数模", "国赛", "CUMCM"],
+      "url": "http://www.mcm.edu.cn/",
+      "category": "math",
+      "typical_months": [9],
+      "note": null
+    },
+    {
+      "id": "official-020",
+      "no": 20,
+      "name": "全国大学生市场调查与分析大赛",
+      "aliases": ["市调大赛"],
+      "url": "http://www.china-cssc.org/",
+      "category": "business",
+      "typical_months": [9],
+      "note": null
+    }
+  ]
+}

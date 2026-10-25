@@ -1,0 +1,37 @@
+{
+  "name": "competition-radar-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for searching Chinese college competition information",
+  "type": "module",
+  "private": true,
+  "bin": {
+    "competition-radar-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "test": "node --import tsx --test test/*.test.ts",
+    "refresh": "tsx src/cli/refresh.ts",
+    "doctor": "tsx src/cli/doctor.ts",
+    "smoke": "tsx scripts/smoke.ts",
+    "smoke:http": "tsx scripts/smoke-http.ts",
+    "smoke:sse": "tsx scripts/smoke-sse.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "better-sqlite3": "^13.0.3",
+    "cheerio": "^1.2.0",
+    "iconv-lite": "^0.7.3",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "^24.19.2",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
